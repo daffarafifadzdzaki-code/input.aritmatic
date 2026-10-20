@@ -1,0 +1,10 @@
+a = input("Masukkan angka pertama: ")
+b = input("Masukkan angka kedua: ")
+
+print(a, ' + ', b, ' = ', int(a) + int(b))
+print(a, ' - ', b, ' = ', int(a) - int(b))
+print(a, ' * ', b, ' = ', int(a) * int(b))
+print(a, ' / ', b, ' = ', int(a) / int(b))
+print(a, ' % ', b, ' = ', int(a) % int(b))
+print(a, ' // ', b, ' = ', int(a) // int(b))
+print(a, ' ** ', b, ' = ', int(a) ** int(b))
